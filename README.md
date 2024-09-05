@@ -1,8 +1,31 @@
 # React + Vite
+# Todo List Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based Todo List app styled with Tailwind CSS. It allows users to add, edit, complete, and delete todos, with data persistence using local storage.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add, edit, complete, and delete todos
+- Responsive design
+- Local storage support
+
+## Installation
+
+1. Clone the repo:
+    ```bash
+ 
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Todo_List
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+Start the development server:
+```bash
+npm run dev
