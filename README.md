@@ -13,7 +13,7 @@ A React-based Todo List app styled with Tailwind CSS. It allows users to add, ed
 
 1. Clone the repo:
     ```bash
- 
+     https://github.com/sachinkumar726/Todo_List.git
     ```
 2. Navigate to the project directory:
     ```bash
